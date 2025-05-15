@@ -1,0 +1,14 @@
+{
+    "name": "ESP32FileLogger",
+    "version": "1.0.0",
+    "repository": {
+     "type": "git",
+     "url": "https://github.com/peteDDD/ESP32FileLogger.git"
+    },
+    "authors": [
+        {
+            "name": "Pete Dubler",
+            "email": "pete.dubler@gmail.com"
+        }
+    ]
+}
