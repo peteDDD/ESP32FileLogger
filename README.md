@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> cd61331fb8df3a6c5ed159da49c2c8a5c84fa201
 This library is used to divert ESP_LOG* output to a logfile and/or serial port.
 
 The log file can be on LittleFS (flash) or on SD card
@@ -33,4 +37,8 @@ HOW TO USE THIS LIBRARY
    
    Don't forget to create a /data directory for LittleFS,
       build the file system, and upload the file system to your processor
+<<<<<<< HEAD
       before uploading you code
+=======
+      before uploading you code
+>>>>>>> cd61331fb8df3a6c5ed159da49c2c8a5c84fa201
